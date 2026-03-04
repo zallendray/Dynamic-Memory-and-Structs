@@ -180,6 +180,8 @@ void print_report(int num_students, int num_grades, student_info* Student_List)
 		for (int in = 0; in < num_grades; in++) {
 			cout << Student_List[i].grades[in] << endl;
 		}
+		delete[] Student_List[i].grades;
 		cout << endl << endl << endl;
 	}
+	delete[] Student_List;
 }
