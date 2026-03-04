@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Dynamic Memory and Structs/Dynamic Memory and Structs.vcxproj" />
+  <Project Path="Dynamic Memory and Structs/Dynamic Memory and Structs.vcxproj" Id="15ed1ca7-0faa-4909-a0c5-d247df5d8300" />
 </Solution>
