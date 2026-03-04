@@ -1,5 +1,8 @@
-// Dynamic Memory and Structs.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/*
+Dynamic Memory and Structs
+
+Read in a file with student names, ids, and grades. Write a dynamic program to process this data and output it to the screen.
+*/
 
 #include <iostream>
 #include <fstream>
